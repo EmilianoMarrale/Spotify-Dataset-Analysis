@@ -9,4 +9,4 @@ Performing tasks of:
 
 The notebooks include a partial version of the code used to perform the tasks while the report incldue the insights on the data.
 
-Project made for the course of Data Mining 1 from University of Pisa. 
+Project made for the course of Data Mining 1 from University of Pisa. Final grade 30L
