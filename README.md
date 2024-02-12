@@ -1,11 +1,10 @@
 # Spotify dataset analysis
 Performing tasks of: 
-1) Data understanding
-2) Data preparation
-3) Clustering
-4) Classification
-5) Regression
-6) Pattern Analysis
+1) Data understanding and preparation
+2) Clustering
+3) Classification
+4) Regression
+5) Pattern Analysis
 
 The notebooks include a partial version of the code used to perform the tasks while the report incldue the insights on the data.
 
